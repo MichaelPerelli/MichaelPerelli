@@ -35,8 +35,4 @@ Sviluppo **applicazioni web e mobile** moderne, performanti e intuitive. Dal **f
 </p>
 
 ---
-
-💼 **Portfolio:** /portfolio
-💬 **Community & Snippet:** /forum
-
 > *"Build. Learn. Improve."* 🚀
